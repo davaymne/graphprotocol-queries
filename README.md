@@ -2,6 +2,8 @@
 
 ## graph-network-mainnet:
 
+The Graph Network Mainnet subgraph is the main subgraph which is being used by Indexers/Delegators/Curators. 
+
 API: https://api.thegraph.com/subgraphs/name/graphprotocol/graph-network-mainnet
 
 * Query Total Network Signal:
